@@ -3,7 +3,7 @@
 This is a YouTube clone created using React, Tailwind, and the YouTube API. It includes features such as video playing, video search, and navigation to different sections.
 
 ## Live 
-https://youtube-clone-sam.vercel.app/
+https://sanjuyoutube.netlify.app/
 
 ## Installation
 
